@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\ro11\Downloads\SocketTest\SocketTest\Source.cpp(13,34): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
